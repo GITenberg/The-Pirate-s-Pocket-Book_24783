@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '2765'
     url: http://www.gutenberg.org/2009/agents/2765
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24783#The-Pirate-s-Pocket-Book
 gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
 gutenberg_issued: '2008-03-08'
 gutenberg_type: Text
